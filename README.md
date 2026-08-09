@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Muhamad Tedy Setyady 👋
+![Muhamad Tedy Setyady](img/foto1.png)
 
 ### 💻 Software Developer | Web Development
 
