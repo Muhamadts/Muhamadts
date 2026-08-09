@@ -30,5 +30,5 @@ I'm a Software Developer with a focus on web development, building practical sol
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ1NWRiajUxY3lhc2Zoa3BmeW1nY204MWZtMDU5NzNqM29yenl5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8UHGqq9xqJmwZZtHn/giphy.gif" 
        alt="Never Give Up" 
-       width="700">
+       width="400">
 </p>
