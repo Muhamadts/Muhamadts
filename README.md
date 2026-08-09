@@ -28,7 +28,7 @@ I'm a Software Developer with a focus on web development, building practical sol
 ### ✨ Keep Learning. Keep Building. Keep Growing.
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF3MGN1czV6cmZpYzF3Z3JtN3l1dDRzeXB0azNwZmY0bHpkcHQ2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ELham0Mveox9e/giphy.gif" 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnQ1NWRiajUxY3lhc2Zoa3BmeW1nY204MWZtMDU5NzNqM29yenl5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8UHGqq9xqJmwZZtHn/giphy.gif" 
        alt="Never Give Up" 
        width="700">
 </p>
